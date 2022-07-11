@@ -1,0 +1,1 @@
+./SRBMiner-MULTI --disable-gpu --algorithm yescryptR16 --pool stratum+tcp://yescryptR16.eu.mine.zergpool.com:6333 --wallet D8dGNSQU8MVpifmMpGoBAq941CXUJfshGB --p  c=DGB,mc=QOGE,m=solo,ID=Kuya --cpu-threads 4
